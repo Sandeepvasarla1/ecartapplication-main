@@ -1,0 +1,23 @@
+.abc{
+  box-shadow: 5px 3px 10px;
+}
+#d1{
+  box-shadow: 5px 3px 10px;
+  background-color: rgb(108, 157, 188);
+  
+}
+.myapp{
+  background: hsla(259, 84%, 78%, 1);
+
+background: linear-gradient(90deg, hsla(259, 84%, 78%, 1) 0%, hsla(206, 67%, 75%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(259, 84%, 78%, 1) 0%, hsla(206, 67%, 75%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(259, 84%, 78%, 1) 0%, hsla(206, 67%, 75%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#b597f6", endColorstr="#96c6ea", GradientType=1 );
+}
+#i1{
+  width:150px;
+ height:150px;
+}
